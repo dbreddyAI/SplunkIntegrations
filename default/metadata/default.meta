@@ -1,0 +1,6 @@
+[]
+export = system
+
+[views/research_demo.xml]
+access = read [ * ], write [ * ]
+export = system
