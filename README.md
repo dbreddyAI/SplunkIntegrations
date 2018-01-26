@@ -4,6 +4,10 @@ This is a simple Splunk app based on a modular input script that makes API calls
 
 Currently, you have the option of using a computer advanced search or a mobile device advanced search of your choosing. Note that when you enter the advanced search name, it is case sensitive and must exactly match the name in Jamf Pro.
 
+## UI Demo
+
+The ui-demo tag shows how to create a UI for the modular input. Specifically, look at the files in the default/data and default/metadata directories, as well as the [ui] section in app.conf.
+
 ## Splunk Modular Inputs
 
 Modular inputs allows adding more interactive inputs for Splunk Enterprise.
