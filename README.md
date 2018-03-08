@@ -25,3 +25,12 @@ To develop on the splunk modular input, you can just clone this repository into 
 After cloning the repositroy, restart your Splunk server and then go to settings > data inputs to add the data from Jamf Pro to Splunk.
 
 We welcome pull requests and forks for new features or bug fixes.
+
+
+### Connecting to JamfPro via Direct Database Access
+
+This document contains instructions to connect to a JamfPro database directly for use with Splunk.  Great care and consideration should be taken before doing this as allowing access to the JamfPro database can be a security risk.
+
+  + [direct db connection](https://github.com/jamf/SplunkModularInput/tree/master/misc/Splunk_MySQL_JamfPro.pdf)
+
+
